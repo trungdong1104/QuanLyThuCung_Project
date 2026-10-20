@@ -1,1 +1,1 @@
-function login() { console.log('Login logic v1'); } 
+function login() { console.log('Login logic tren nhanh MAIN'); } 
